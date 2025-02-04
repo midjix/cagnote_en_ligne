@@ -27,3 +27,4 @@
 /vendor
 /migrations
 /var
+migrations/Version20250204100844.php
